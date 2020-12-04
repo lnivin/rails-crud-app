@@ -1,24 +1,43 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This App is based on Getting Started with Rails Guide (https://guides.rubyonrails.org/getting_started.html).
 
-Things you may want to cover:
+## Installation
 
-* Ruby version
+After clone it, just run the local server:
 
-* System dependencies
+` $ rails server `
 
-* Configuration
+After that, open browser on http://localhost:3000/
 
-* Database creation
+## Features
 
-* Database initialization
+- Welcome page:
+<table><tr><td>
+  <img src="images/welcome-page.png" width="400" height="300" />
+</td></tr></table>
 
-* How to run the test suite
+- List items:
+<table><tr><td>
+  <img src="images/list-articles.png" width="400" height="300" />
+</td></tr></table>
 
-* Services (job queues, cache servers, search engines, etc.)
+- Create an item:
+<table><tr><td>
+  <img src="images/create-article.png" width="400" height="400" />
+</td></tr></table>
 
-* Deployment instructions
+- View an item:
+<table><tr><td>
+  <img src="images/view-article.png" width="400" height="300" />
+</td></tr></table>
 
-* ...
+- Edit an item:
+<table><tr><td>
+  <img src="images/edit-article.png" width="400" height="400" />
+</td></tr></table>
+
+- Delete an item:
+<table><tr><td>
+  <img src="images/delete-article.png" width="600" height="300" />
+</td></tr></table>
